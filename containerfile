@@ -1,1 +1,1 @@
-FROM docker.io/caddy:2.9.0
+FROM docker.io/php:8.3.19
