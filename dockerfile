@@ -1,1 +1,1 @@
-FROM php:8.3.20 AS build
+FROM php:8.4.6 AS build
