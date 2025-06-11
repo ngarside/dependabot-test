@@ -1,3 +1,3 @@
-FROM php:8.4@sha256:b60f0cc194f8b0ef00e00024f763a150b03e666be79f4012501af72d262be61d AS builder
+FROM php:8.4@sha256:cd5542d1f09a8cf88223c0e248eba9f8177db46bc868203c51d722adf512a1aa AS builder
 
 FROM scratch
